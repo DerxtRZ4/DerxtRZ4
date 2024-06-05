@@ -14,3 +14,5 @@ Si tienes alguna pregunta o necesitas ayuda con algo relacionado con plugins, co
 ---
 
 ¡Gracias por visitar mi repositorio! ¡Espero que encuentres algo útil aquí y que podamos colaborar pronto! ✨
+
+¡Recuerda que si tomas cualquier plugin echo por mi no olvides dar créditos!
