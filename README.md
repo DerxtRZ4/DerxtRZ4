@@ -5,7 +5,7 @@
 
 - 💡 **Desarrollador de Plugins**: Me encanta crear plugins que mejoren la experiencia de juego de los jugadores.
 - 🛠️ **Staff y Builder**: Disfruto siendo parte del staff y contribuir como constructor en diferentes servidores.
-- 👑 **Owner de EternityMC**: Soy el propietario de EternityMC, un servidor dedicado a ofrecer una experiencia única y divertida.
+- 👑 **Owner de Arashi**: Soy owner de arashi hcf, un servidor dedicado a ofrecer una experiencia única y divertida.
 - 🤝 **Ayudante**: Me gusta ayudar a la gente siempre que puedo. No pido nada a cambio por mi ayuda; mi satisfacción viene de ver a los demás disfrutar y mejorar.
 
 ## 📞 Contacto
